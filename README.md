@@ -7,6 +7,15 @@ Welcome to **iQuotes**, a beautifully crafted Flutter app that delivers **daily 
 
 ---
 
+## 📥 Download the App
+
+Ready to experience iQuotes?  
+Click the button below to download the latest version of the app:
+
+[![Download iQuotes](https://img.shields.io/badge/Download%20App-Click%20Here-brightgreen?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1bTW5Pc6Pg0PdLBH2iws3xryIpqOaR6hQ/view?usp=drive_link)
+
+---
+
 ## 🚀 Features
 
 - 🎯 **Random Quote Section**
